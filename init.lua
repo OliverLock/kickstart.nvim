@@ -41,7 +41,7 @@ What is Kickstart?
     - :help lua-guide
     - (or HTML version): https://neovim.io/doc/user/lua-guide.html
 
-Kickstart Guideecho "\ue0b0":
+Kickstart Guide
 
   TODO: The very first thing you should do is to run the command `:Tutor` in Neovim.
 
